@@ -1,0 +1,1 @@
+cmd_/home/manh/Documents/DriverLab/Lab05/2/lab52.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/manh/Documents/DriverLab/Lab05/2/lab52.ko /home/manh/Documents/DriverLab/Lab05/2/lab52.o /home/manh/Documents/DriverLab/Lab05/2/lab52.mod.o ;  true
